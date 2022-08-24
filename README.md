@@ -1,5 +1,5 @@
 # Audacity-Breeze-Dark
-A Breeze Dark theme for audacity
+A Breeze Dark theme for Audacity
 ![Screenshot_20220824_203626](https://user-images.githubusercontent.com/22149526/186432590-6b47b400-2852-4eaa-8363-328758fe2484.png)
 
 ## Installation
